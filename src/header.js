@@ -6,7 +6,7 @@ function Header() {
       <div className="wrapper">
         <div className="header-grid">
           <div>
-            <h1>Social Media Dashboard</h1>
+            <h1>Social Media Dashboard 2</h1>
             <p className="header-total">Total Followers: 23, 004</p>
           </div>
           <div className="dark-mode">
