@@ -9,7 +9,7 @@ function CardSmall(props) {
         <img src={props.icon} alt="" />
       </p>
       <p className="card-small-number">{props.pageViews}</p>
-      <p classNameName="card-small-percentage">
+      <p className="card-small-percentage">
         <span>
           <img src="htmltoreact/images/icon-up.svg" alt="" />
           {props.growth}%
